@@ -1,6 +1,11 @@
 # Processamento de Imagens: Redução de Dimensionalidade
 Este projeto demonstra técnicas fundamentais de processamento de imagens para redução de dimensionalidade, implementado em Python com OpenCV e NumPy. O código foi otimizado para execução no Google Colab.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # 📌 Visão Geral
 O objetivo deste projeto é mostrar o pipeline completo de redução de dimensionalidade em imagens, incluindo:
 
